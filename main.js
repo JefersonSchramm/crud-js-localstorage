@@ -37,6 +37,7 @@ const editarDeletar = (evento) => {
       const [action, index] = evento.target.id.split('-')
 
       if (action == 'editar') {
+          document.getElementById('salvar').innerText = 'Atualizar'
           editarUsuario(index)
       } else {
           const usuario = readUser()[index]
