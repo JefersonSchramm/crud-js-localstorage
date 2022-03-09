@@ -1,4 +1,4 @@
-## CRUD de Usuários
+# CRUD de Usuários
 O CRUD de Usuários se trata de um projeto pessoal para aprendizado e desenvolvimento da linguagem JavaScript, onde registra o nome e idade do usuário no Armazenamento Local do navegador.
 
 O projeto foi desenvolvido utilizando HTML, CSS e Javascript.
@@ -32,9 +32,9 @@ O projeto usa como banco de dados o Armazenamento Local do navegador, e o mesmo 
 ]
 ```
 
+****
+## Autor 😎
 
-#Autor 😎
+#### Jeferson Eduardo Schramm
 
-####Jeferson Eduardo Schramm
 
------
